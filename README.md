@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="500" src="https://github.com/travian22/travian/blob/main/header.png">
+<img align="center" alt="coding" width="1500" height="250" src="https://github.com/travian22/travian/blob/main/header.png">
 
 <h1 align="center">Hi 👋, I'm Septaro Travian Gadha</h1>
 <h3 align="center">A Informatics Engineering Students</h3>
