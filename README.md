@@ -1,6 +1,6 @@
 <img align="center" alt="coding" width="1500" height="250" src="https://github.com/travian22/travian/blob/main/header.png">
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/travian22/travian22/blob/main/line%20light.gif">
 
 <h1 align="center">Hi 👋, I'm Septaro Travian Gadha</h1>
 <h3 align="center">A Informatics Engineering Students</h3>
