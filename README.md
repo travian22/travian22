@@ -4,7 +4,7 @@
 
 <h1 align="center">Septaro Travian Gadha</h1>
 <h3 align="center">A Informatics Engineering Students</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=travian22&hide_progress=true&locale=en&layout=compact" alt="travian22" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=travian22&hide_progress=true&locale=en&layout=compact" alt="travian22" /></p>
 
 
 - 🌱 I’m currently Informatics Engineering Students **At UPN "VETERAN" JAWA TIMUR**
