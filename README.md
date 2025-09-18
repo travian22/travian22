@@ -4,8 +4,6 @@
 
 <h1 align="center">Septaro Travian Gadha</h1>
 <h3 align="center">A Informatics Engineering Students</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/travian22/travian22/blob/main/coding.gif">
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=travian22&hide_progress=true&locale=en&layout=compact" alt="travian22" /></p>
 
 
